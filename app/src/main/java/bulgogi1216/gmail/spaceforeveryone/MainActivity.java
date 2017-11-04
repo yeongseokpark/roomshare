@@ -37,7 +37,6 @@ import bulgogi1216.gmail.spaceforeveryone.room_mgmt.RoomList;
 
 public class MainActivity extends AppCompatActivity {
     public static final String TAG = "MainActivity";
-
     private ActivityMainBinding mBinding;
     private ActionBar mActionBar;
     private ActionBarDrawerToggle mToggle;
